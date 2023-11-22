@@ -1,0 +1,38 @@
+
+Line 3:
+Syntax Error,double quotes missing.
+Found it in console log.
+
+Line 4:
+Runtime Error,Spelling of querySelector is incorrect.
+Found it in console log.
+
+Line 3,4,5,6:
+Runtime Error,HTML id name is not prefixed with #.
+Found it in console log.
+
+Line 17:
+Runtime Error,let temp = data.main.temp.
+Found it in JSON file.
+
+Line 18:
+Logical Error,Missing .tofixed(0).
+The result was displayed with decimal values. 
+
+Line 28:
+Logical Error,the condition should be temp<0 in order to print "winter is coming".
+
+Line 31:
+Syntax Error,semicolon is missed at the end of statement.
+
+Line 34:
+Syntax Error,Incorrect condition.
+Found it in console log.
+
+Line 39:
+syntax Error,paranthesis missing for the function.
+Found it in console log.
+
+Line 40:
+Missing event object e.preventDefault().
+Found in debugger.
