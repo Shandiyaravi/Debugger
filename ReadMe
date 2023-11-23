@@ -16,8 +16,8 @@ Runtime Error,let temp = data.main.temp.
 Found it in JSON file.
 
 Line 18:
-Logical Error,Missing .tofixed(0).
-The result was displayed with decimal values. 
+Logical Error,Missing .tofixed(0).The result was displayed with decimal values. 
+And have to use backticks instead of double quotes otherwise it would throw an error.
 
 Line 28:
 Logical Error,the condition should be temp<0 in order to print "winter is coming".
